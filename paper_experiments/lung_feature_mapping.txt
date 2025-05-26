@@ -1,0 +1,232 @@
+0, AYA site recode/WHO 2008
+1, AYA site recode/WHO 2008
+2, AYA site recode/WHO 2008
+3, AYA site recode/WHO 2008
+4, AYA site recode/WHO 2008
+5, AYA site recode/WHO 2008
+6, AYA site recode/WHO 2008
+7, AYA site recode/WHO 2008
+8, AYA site recode/WHO 2008
+9, AYA site recode/WHO 2008
+10, AYA site recode/WHO 2008
+11, AYA site recode/WHO 2008
+12, AYA site recode/WHO 2008
+13, AYA site recode/WHO 2008
+14, AYA site recode/WHO 2008
+15, AYA site recode/WHO 2008
+16, AYA site recode/WHO 2008
+17, Age recode with <1 year olds
+18, Age recode with <1 year olds
+19, Age recode with <1 year olds
+20, Age recode with <1 year olds
+21, Age recode with <1 year olds
+22, Age recode with <1 year olds
+23, Age recode with <1 year olds
+24, Age recode with <1 year olds
+25, Age recode with <1 year olds
+26, Age recode with <1 year olds
+27, Age recode with <1 year olds
+28, Age recode with <1 year olds
+29, Age recode with <1 year olds
+30, Age recode with <1 year olds
+31, Age recode with <1 year olds
+32, Age recode with <1 year olds
+33, Age recode with <1 year olds
+34, Age recode with <1 year olds
+35, Age recode with <1 year olds
+36, Behavior code ICD-O-2
+37, Behavior code ICD-O-2
+38, Behavior code ICD-O-2
+39, Behavior code ICD-O-3
+40, Derived AJCC M, 6th ed (2004-2015)
+41, Derived AJCC M, 6th ed (2004-2015)
+42, Derived AJCC M, 6th ed (2004-2015)
+43, Derived AJCC M, 6th ed (2004-2015)
+44, Derived AJCC M, 6th ed (2004-2015)
+45, Derived AJCC M, 7th ed (2010-2015)
+46, Derived AJCC M, 7th ed (2010-2015)
+47, Derived AJCC M, 7th ed (2010-2015)
+48, Derived AJCC M, 7th ed (2010-2015)
+49, Derived AJCC M, 7th ed (2010-2015)
+50, Derived AJCC M, 7th ed (2010-2015)
+51, Derived AJCC N, 6th ed (2004-2015)
+52, Derived AJCC N, 6th ed (2004-2015)
+53, Derived AJCC N, 6th ed (2004-2015)
+54, Derived AJCC N, 6th ed (2004-2015)
+55, Derived AJCC N, 6th ed (2004-2015)
+56, Derived AJCC N, 6th ed (2004-2015)
+57, Derived AJCC N, 6th ed (2004-2015)
+58, Derived AJCC N, 7th ed (2010-2015)
+59, Derived AJCC N, 7th ed (2010-2015)
+60, Derived AJCC N, 7th ed (2010-2015)
+61, Derived AJCC N, 7th ed (2010-2015)
+62, Derived AJCC N, 7th ed (2010-2015)
+63, Derived AJCC N, 7th ed (2010-2015)
+64, Derived AJCC N, 7th ed (2010-2015)
+65, Derived AJCC Stage Group, 6th ed (2004-2015)
+66, Derived AJCC Stage Group, 6th ed (2004-2015)
+67, Derived AJCC Stage Group, 6th ed (2004-2015)
+68, Derived AJCC Stage Group, 6th ed (2004-2015)
+69, Derived AJCC Stage Group, 6th ed (2004-2015)
+70, Derived AJCC Stage Group, 6th ed (2004-2015)
+71, Derived AJCC Stage Group, 6th ed (2004-2015)
+72, Derived AJCC Stage Group, 6th ed (2004-2015)
+73, Derived AJCC Stage Group, 6th ed (2004-2015)
+74, Derived AJCC Stage Group, 6th ed (2004-2015)
+75, Derived AJCC Stage Group, 6th ed (2004-2015)
+76, Derived AJCC T, 6th ed (2004-2015)
+77, Derived AJCC T, 6th ed (2004-2015)
+78, Derived AJCC T, 6th ed (2004-2015)
+79, Derived AJCC T, 6th ed (2004-2015)
+80, Derived AJCC T, 6th ed (2004-2015)
+81, Derived AJCC T, 6th ed (2004-2015)
+82, Derived AJCC T, 6th ed (2004-2015)
+83, Derived AJCC T, 6th ed (2004-2015)
+84, Derived AJCC T, 7th ed (2010-2015)
+85, Derived AJCC T, 7th ed (2010-2015)
+86, Derived AJCC T, 7th ed (2010-2015)
+87, Derived AJCC T, 7th ed (2010-2015)
+88, Derived AJCC T, 7th ed (2010-2015)
+89, Derived AJCC T, 7th ed (2010-2015)
+90, Derived AJCC T, 7th ed (2010-2015)
+91, Derived AJCC T, 7th ed (2010-2015)
+92, Derived AJCC T, 7th ed (2010-2015)
+93, Derived AJCC T, 7th ed (2010-2015)
+94, Derived AJCC T, 7th ed (2010-2015)
+95, Derived AJCC T, 7th ed (2010-2015)
+96, First malignant primary indicator
+97, First malignant primary indicator
+98, Grade (thru 2017)
+99, Grade (thru 2017)
+100, Grade (thru 2017)
+101, Grade (thru 2017)
+102, Grade (thru 2017)
+103, Grade (thru 2017)
+104, Histology recode - broad groupings
+105, Histology recode - broad groupings
+106, Histology recode - broad groupings
+107, Histology recode - broad groupings
+108, Histology recode - broad groupings
+109, Histology recode - broad groupings
+110, Histology recode - broad groupings
+111, Histology recode - broad groupings
+112, Histology recode - broad groupings
+113, Histology recode - broad groupings
+114, Histology recode - broad groupings
+115, Histology recode - broad groupings
+116, Histology recode - broad groupings
+117, Histology recode - broad groupings
+118, Histology recode - broad groupings
+119, Histology recode - broad groupings
+120, Histology recode - broad groupings
+121, Histology recode - broad groupings
+122, Histology recode - broad groupings
+123, Histology recode - broad groupings
+124, Histology recode - broad groupings
+125, Histology recode - broad groupings
+126, Histology recode - broad groupings
+127, Histology recode - broad groupings
+128, Histology recode - broad groupings
+129, Histology recode - broad groupings
+130, Histology recode - broad groupings
+131, Histology recode - broad groupings
+132, Histology recode - broad groupings
+133, Histology recode - broad groupings
+134, Histology recode - broad groupings
+135, Histology recode - broad groupings
+136, Histology recode - broad groupings
+137, Histology recode - broad groupings
+138, Histology recode - broad groupings
+139, ICCC site recode 3rd edition/IARC 2017
+140, ICCC site recode 3rd edition/IARC 2017
+141, ICCC site recode 3rd edition/IARC 2017
+142, ICCC site recode 3rd edition/IARC 2017
+143, ICCC site recode 3rd edition/IARC 2017
+144, ICCC site recode 3rd edition/IARC 2017
+145, ICCC site recode 3rd edition/IARC 2017
+146, ICCC site recode 3rd edition/IARC 2017
+147, ICCC site recode 3rd edition/IARC 2017
+148, ICCC site recode 3rd edition/IARC 2017
+149, ICCC site recode 3rd edition/IARC 2017
+150, ICCC site recode 3rd edition/IARC 2017
+151, ICCC site recode 3rd edition/IARC 2017
+152, ICCC site recode 3rd edition/IARC 2017
+153, ICCC site recode 3rd edition/IARC 2017
+154, ICCC site recode 3rd edition/IARC 2017
+155, ICCC site recode extended 3rd edition/IARC 2017
+156, ICCC site recode extended 3rd edition/IARC 2017
+157, ICCC site recode extended 3rd edition/IARC 2017
+158, ICCC site recode extended 3rd edition/IARC 2017
+159, ICCC site recode extended 3rd edition/IARC 2017
+160, ICCC site recode extended 3rd edition/IARC 2017
+161, ICCC site recode extended 3rd edition/IARC 2017
+162, ICCC site recode extended 3rd edition/IARC 2017
+163, ICCC site recode extended 3rd edition/IARC 2017
+164, ICCC site recode extended 3rd edition/IARC 2017
+165, ICCC site recode extended 3rd edition/IARC 2017
+166, ICCC site recode extended 3rd edition/IARC 2017
+167, ICCC site recode extended 3rd edition/IARC 2017
+168, ICCC site recode extended 3rd edition/IARC 2017
+169, ICCC site recode extended 3rd edition/IARC 2017
+170, ICCC site recode extended 3rd edition/IARC 2017
+171, ICCC site recode extended 3rd edition/IARC 2017
+172, ICCC site recode extended 3rd edition/IARC 2017
+173, ICCC site recode extended 3rd edition/IARC 2017
+174, ICCC site recode extended 3rd edition/IARC 2017
+175, ICCC site recode extended 3rd edition/IARC 2017
+176, ICCC site recode extended 3rd edition/IARC 2017
+177, ICCC site recode extended 3rd edition/IARC 2017
+178, ICCC site recode extended 3rd edition/IARC 2017
+179, ICCC site recode extended 3rd edition/IARC 2017
+180, ICCC site recode extended 3rd edition/IARC 2017
+181, ICCC site recode extended 3rd edition/IARC 2017
+182, ICCC site recode extended 3rd edition/IARC 2017
+183, ICCC site recode extended 3rd edition/IARC 2017
+184, ICCC site recode extended 3rd edition/IARC 2017
+185, ICCC site recode extended 3rd edition/IARC 2017
+186, ICCC site recode extended 3rd edition/IARC 2017
+187, IHS Link
+188, IHS Link
+189, IHS Link
+190, Laterality
+191, Laterality
+192, Laterality
+193, Laterality
+194, Laterality
+195, Laterality
+196, Origin recode NHIA (Hispanic, Non-Hisp)
+197, Origin recode NHIA (Hispanic, Non-Hisp)
+198, Primary by international rules
+199, Primary by international rules
+200, Race recode (White, Black, Other)
+201, Race recode (White, Black, Other)
+202, Race recode (White, Black, Other)
+203, Race recode (White, Black, Other)
+204, SEER historic stage A (1973-2015)
+205, SEER historic stage A (1973-2015)
+206, SEER historic stage A (1973-2015)
+207, SEER historic stage A (1973-2015)
+208, SEER historic stage A (1973-2015)
+209, Sex
+210, Sex
+211, Type of Reporting Source
+212, Type of Reporting Source
+213, Type of Reporting Source
+214, Type of Reporting Source
+215, Type of Reporting Source
+216, Type of Reporting Source
+217, Type of Reporting Source
+218, Type of Reporting Source
+219, Age recode with single ages and 85+
+220, CS extension (2004-2015)
+221, CS lymph nodes (2004-2015)
+222, CS mets at dx (2004-2015)
+223, CS site-specific factor 1 (2004-2017 varying by schema)
+224, CS tumor size (2004-2015)
+225, CS version input current (2004-2015)
+226, CS version input original (2004-2015)
+227, EOD 10 - extent (1988-2003)
+228, EOD 10 - nodes (1988-2003)
+229, EOD 10 - size (1988-2003)
+230, EOD 4 - nodes (1983-1987)
+231, Histologic Type ICD-O-3

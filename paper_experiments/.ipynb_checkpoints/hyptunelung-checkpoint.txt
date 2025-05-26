@@ -1,0 +1,1200 @@
+random_seed:0, start_year:1990, test_year:2000, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 0.266104
+
+random_seed:0, start_year:1990, test_year:2001, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 0.271546
+
+random_seed:0, start_year:1990, test_year:2002, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 0.270580
+
+random_seed:0, start_year:1990, test_year:2003, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 0.277035
+
+random_seed:0, start_year:1990, test_year:2004, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 2.129509
+
+random_seed:0, start_year:1990, test_year:2005, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 2.077446
+
+random_seed:0, start_year:1990, test_year:2006, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 2.075783
+
+random_seed:0, start_year:1990, test_year:2007, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 2.029615
+
+random_seed:0, start_year:1990, test_year:2008, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 2.017182
+
+random_seed:0, start_year:1990, test_year:2009, currC:100000.0000000000
+BLOCK: 0.254799
+RAND: 0.254744
+PROP: 0.000055
+TEST: 1.942836
+
+random_seed:0, start_year:1990, test_year:2000, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 0.266104
+
+random_seed:0, start_year:1990, test_year:2001, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 0.271546
+
+random_seed:0, start_year:1990, test_year:2002, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 0.270580
+
+random_seed:0, start_year:1990, test_year:2003, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 0.277035
+
+random_seed:0, start_year:1990, test_year:2004, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 2.129153
+
+random_seed:0, start_year:1990, test_year:2005, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 2.077098
+
+random_seed:0, start_year:1990, test_year:2006, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 2.075438
+
+random_seed:0, start_year:1990, test_year:2007, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 2.029279
+
+random_seed:0, start_year:1990, test_year:2008, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 2.016851
+
+random_seed:0, start_year:1990, test_year:2009, currC:10000.0000000000
+BLOCK: 0.254733
+RAND: 0.254741
+PROP: 0.000008
+TEST: 1.942527
+
+random_seed:0, start_year:1990, test_year:2000, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 0.266104
+
+random_seed:0, start_year:1990, test_year:2001, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 0.271545
+
+random_seed:0, start_year:1990, test_year:2002, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 0.270580
+
+random_seed:0, start_year:1990, test_year:2003, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 0.277035
+
+random_seed:0, start_year:1990, test_year:2004, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 2.125592
+
+random_seed:0, start_year:1990, test_year:2005, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 2.073617
+
+random_seed:0, start_year:1990, test_year:2006, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 2.071988
+
+random_seed:0, start_year:1990, test_year:2007, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 2.025915
+
+random_seed:0, start_year:1990, test_year:2008, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 2.013544
+
+random_seed:0, start_year:1990, test_year:2009, currC:1000.0000000000
+BLOCK: 0.254757
+RAND: 0.254782
+PROP: 0.000025
+TEST: 1.939434
+
+random_seed:0, start_year:1990, test_year:2000, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 0.266103
+
+random_seed:0, start_year:1990, test_year:2001, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 0.271542
+
+random_seed:0, start_year:1990, test_year:2002, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 0.270578
+
+random_seed:0, start_year:1990, test_year:2003, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 0.277035
+
+random_seed:0, start_year:1990, test_year:2004, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 2.090150
+
+random_seed:0, start_year:1990, test_year:2005, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 2.038975
+
+random_seed:0, start_year:1990, test_year:2006, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 2.037650
+
+random_seed:0, start_year:1990, test_year:2007, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 1.992439
+
+random_seed:0, start_year:1990, test_year:2008, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 1.980627
+
+random_seed:0, start_year:1990, test_year:2009, currC:100.0000000000
+BLOCK: 0.254755
+RAND: 0.254738
+PROP: 0.000017
+TEST: 1.908654
+
+random_seed:0, start_year:1990, test_year:2000, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.266032
+
+random_seed:0, start_year:1990, test_year:2001, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.271458
+
+random_seed:0, start_year:1990, test_year:2002, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.270513
+
+random_seed:0, start_year:1990, test_year:2003, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.277059
+
+random_seed:0, start_year:1990, test_year:2004, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.557901
+
+random_seed:0, start_year:1990, test_year:2005, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.545978
+
+random_seed:0, start_year:1990, test_year:2006, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.551739
+
+random_seed:0, start_year:1990, test_year:2007, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.545604
+
+random_seed:0, start_year:1990, test_year:2008, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.545753
+
+random_seed:0, start_year:1990, test_year:2009, currC:1.0000000000
+BLOCK: 0.254721
+RAND: 0.254683
+PROP: 0.000038
+TEST: 0.545084
+
+random_seed:0, start_year:1990, test_year:2000, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.267369
+
+random_seed:0, start_year:1990, test_year:2001, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.273278
+
+random_seed:0, start_year:1990, test_year:2002, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.271806
+
+random_seed:0, start_year:1990, test_year:2003, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.278770
+
+random_seed:0, start_year:1990, test_year:2004, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.321081
+
+random_seed:0, start_year:1990, test_year:2005, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.321036
+
+random_seed:0, start_year:1990, test_year:2006, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.327927
+
+random_seed:0, start_year:1990, test_year:2007, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.332572
+
+random_seed:0, start_year:1990, test_year:2008, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.335441
+
+random_seed:0, start_year:1990, test_year:2009, currC:0.1000000000
+BLOCK: 0.255397
+RAND: 0.255308
+PROP: 0.000089
+TEST: 0.345221
+
+random_seed:0, start_year:1990, test_year:2000, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.271649
+
+random_seed:0, start_year:1990, test_year:2001, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.277463
+
+random_seed:0, start_year:1990, test_year:2002, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.276688
+
+random_seed:0, start_year:1990, test_year:2003, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.283462
+
+random_seed:0, start_year:1990, test_year:2004, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.326741
+
+random_seed:0, start_year:1990, test_year:2005, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.327637
+
+random_seed:0, start_year:1990, test_year:2006, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.334960
+
+random_seed:0, start_year:1990, test_year:2007, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.339891
+
+random_seed:0, start_year:1990, test_year:2008, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.341435
+
+random_seed:0, start_year:1990, test_year:2009, currC:0.0100000000
+BLOCK: 0.258110
+RAND: 0.257984
+PROP: 0.000126
+TEST: 0.351844
+
+random_seed:0, start_year:1990, test_year:2000, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.301438
+
+random_seed:0, start_year:1990, test_year:2001, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.305724
+
+random_seed:0, start_year:1990, test_year:2002, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.305824
+
+random_seed:0, start_year:1990, test_year:2003, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.315364
+
+random_seed:0, start_year:1990, test_year:2004, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.514388
+
+random_seed:0, start_year:1990, test_year:2005, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.515765
+
+random_seed:0, start_year:1990, test_year:2006, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.518820
+
+random_seed:0, start_year:1990, test_year:2007, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.521491
+
+random_seed:0, start_year:1990, test_year:2008, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.523625
+
+random_seed:0, start_year:1990, test_year:2009, currC:0.0010000000
+BLOCK: 0.268299
+RAND: 0.268204
+PROP: 0.000095
+TEST: 0.528142
+
+random_seed:0, start_year:1990, test_year:2000, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.391811
+
+random_seed:0, start_year:1990, test_year:2001, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.386436
+
+random_seed:0, start_year:1990, test_year:2002, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.394317
+
+random_seed:0, start_year:1990, test_year:2003, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.403885
+
+random_seed:0, start_year:1990, test_year:2004, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.410434
+
+random_seed:0, start_year:1990, test_year:2005, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.425504
+
+random_seed:0, start_year:1990, test_year:2006, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.432159
+
+random_seed:0, start_year:1990, test_year:2007, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.445471
+
+random_seed:0, start_year:1990, test_year:2008, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.452102
+
+random_seed:0, start_year:1990, test_year:2009, currC:0.0001000000
+BLOCK: 0.294712
+RAND: 0.294630
+PROP: 0.000082
+TEST: 0.471897
+
+random_seed:0, start_year:1990, test_year:2000, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.392149
+
+random_seed:0, start_year:1990, test_year:2001, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.386720
+
+random_seed:0, start_year:1990, test_year:2002, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.394680
+
+random_seed:0, start_year:1990, test_year:2003, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.404345
+
+random_seed:0, start_year:1990, test_year:2004, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.410961
+
+random_seed:0, start_year:1990, test_year:2005, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.426183
+
+random_seed:0, start_year:1990, test_year:2006, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.432906
+
+random_seed:0, start_year:1990, test_year:2007, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.446353
+
+random_seed:0, start_year:1990, test_year:2008, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.453051
+
+random_seed:0, start_year:1990, test_year:2009, currC:0.0000100000
+BLOCK: 0.343579
+RAND: 0.343513
+PROP: 0.000066
+TEST: 0.473048
+
+random_seed:0, start_year:1991, test_year:2000, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 0.265910
+
+random_seed:0, start_year:1991, test_year:2001, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 0.271017
+
+random_seed:0, start_year:1991, test_year:2002, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 0.270136
+
+random_seed:0, start_year:1991, test_year:2003, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 0.276393
+
+random_seed:0, start_year:1991, test_year:2004, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 2.344192
+
+random_seed:0, start_year:1991, test_year:2005, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 2.286298
+
+random_seed:0, start_year:1991, test_year:2006, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 2.284359
+
+random_seed:0, start_year:1991, test_year:2007, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 2.233102
+
+random_seed:0, start_year:1991, test_year:2008, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 2.220496
+
+random_seed:0, start_year:1991, test_year:2009, currC:100000.0000000000
+BLOCK: 0.256957
+RAND: 0.256796
+PROP: 0.000162
+TEST: 2.136767
+
+random_seed:0, start_year:1991, test_year:2000, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 0.265910
+
+random_seed:0, start_year:1991, test_year:2001, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 0.271017
+
+random_seed:0, start_year:1991, test_year:2002, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 0.270136
+
+random_seed:0, start_year:1991, test_year:2003, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 0.276393
+
+random_seed:0, start_year:1991, test_year:2004, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 2.343798
+
+random_seed:0, start_year:1991, test_year:2005, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 2.285912
+
+random_seed:0, start_year:1991, test_year:2006, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 2.283977
+
+random_seed:0, start_year:1991, test_year:2007, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 2.232728
+
+random_seed:0, start_year:1991, test_year:2008, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 2.220129
+
+random_seed:0, start_year:1991, test_year:2009, currC:10000.0000000000
+BLOCK: 0.257009
+RAND: 0.256821
+PROP: 0.000188
+TEST: 2.136422
+
+random_seed:0, start_year:1991, test_year:2000, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 0.265910
+
+random_seed:0, start_year:1991, test_year:2001, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 0.271017
+
+random_seed:0, start_year:1991, test_year:2002, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 0.270136
+
+random_seed:0, start_year:1991, test_year:2003, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 0.276393
+
+random_seed:0, start_year:1991, test_year:2004, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 2.339858
+
+random_seed:0, start_year:1991, test_year:2005, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 2.282057
+
+random_seed:0, start_year:1991, test_year:2006, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 2.280155
+
+random_seed:0, start_year:1991, test_year:2007, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 2.228996
+
+random_seed:0, start_year:1991, test_year:2008, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 2.216456
+
+random_seed:0, start_year:1991, test_year:2009, currC:1000.0000000000
+BLOCK: 0.256908
+RAND: 0.256857
+PROP: 0.000052
+TEST: 2.132979
+
+random_seed:0, start_year:1991, test_year:2000, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 0.265908
+
+random_seed:0, start_year:1991, test_year:2001, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 0.271014
+
+random_seed:0, start_year:1991, test_year:2002, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 0.270135
+
+random_seed:0, start_year:1991, test_year:2003, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 0.276394
+
+random_seed:0, start_year:1991, test_year:2004, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 2.300570
+
+random_seed:0, start_year:1991, test_year:2005, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 2.243615
+
+random_seed:0, start_year:1991, test_year:2006, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 2.242039
+
+random_seed:0, start_year:1991, test_year:2007, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 2.191784
+
+random_seed:0, start_year:1991, test_year:2008, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 2.179834
+
+random_seed:0, start_year:1991, test_year:2009, currC:100.0000000000
+BLOCK: 0.256919
+RAND: 0.256806
+PROP: 0.000112
+TEST: 2.098642
+
+random_seed:0, start_year:1991, test_year:2000, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.265829
+
+random_seed:0, start_year:1991, test_year:2001, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.271007
+
+random_seed:0, start_year:1991, test_year:2002, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.270092
+
+random_seed:0, start_year:1991, test_year:2003, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.276454
+
+random_seed:0, start_year:1991, test_year:2004, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.583217
+
+random_seed:0, start_year:1991, test_year:2005, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.569540
+
+random_seed:0, start_year:1991, test_year:2006, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.575633
+
+random_seed:0, start_year:1991, test_year:2007, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.568049
+
+random_seed:0, start_year:1991, test_year:2008, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.568910
+
+random_seed:0, start_year:1991, test_year:2009, currC:1.0000000000
+BLOCK: 0.256945
+RAND: 0.256830
+PROP: 0.000115
+TEST: 0.567174
+
+random_seed:0, start_year:1991, test_year:2000, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.267081
+
+random_seed:0, start_year:1991, test_year:2001, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.272905
+
+random_seed:0, start_year:1991, test_year:2002, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.271270
+
+random_seed:0, start_year:1991, test_year:2003, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.278078
+
+random_seed:0, start_year:1991, test_year:2004, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.319883
+
+random_seed:0, start_year:1991, test_year:2005, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.319650
+
+random_seed:0, start_year:1991, test_year:2006, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.326446
+
+random_seed:0, start_year:1991, test_year:2007, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.331011
+
+random_seed:0, start_year:1991, test_year:2008, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.333993
+
+random_seed:0, start_year:1991, test_year:2009, currC:0.1000000000
+BLOCK: 0.257516
+RAND: 0.257476
+PROP: 0.000041
+TEST: 0.343735
+
+random_seed:0, start_year:1991, test_year:2000, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.270654
+
+random_seed:0, start_year:1991, test_year:2001, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.276392
+
+random_seed:0, start_year:1991, test_year:2002, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.275435
+
+random_seed:0, start_year:1991, test_year:2003, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.282060
+
+random_seed:0, start_year:1991, test_year:2004, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.324116
+
+random_seed:0, start_year:1991, test_year:2005, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.324814
+
+random_seed:0, start_year:1991, test_year:2006, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.332113
+
+random_seed:0, start_year:1991, test_year:2007, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.336991
+
+random_seed:0, start_year:1991, test_year:2008, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.338683
+
+random_seed:0, start_year:1991, test_year:2009, currC:0.0100000000
+BLOCK: 0.260246
+RAND: 0.260177
+PROP: 0.000069
+TEST: 0.348998
+
+random_seed:0, start_year:1991, test_year:2000, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.300595
+
+random_seed:0, start_year:1991, test_year:2001, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.304899
+
+random_seed:0, start_year:1991, test_year:2002, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.305032
+
+random_seed:0, start_year:1991, test_year:2003, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.314383
+
+random_seed:0, start_year:1991, test_year:2004, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.505556
+
+random_seed:0, start_year:1991, test_year:2005, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.506809
+
+random_seed:0, start_year:1991, test_year:2006, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.510100
+
+random_seed:0, start_year:1991, test_year:2007, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.512788
+
+random_seed:0, start_year:1991, test_year:2008, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.514914
+
+random_seed:0, start_year:1991, test_year:2009, currC:0.0010000000
+BLOCK: 0.271071
+RAND: 0.271008
+PROP: 0.000063
+TEST: 0.519640
+
+random_seed:0, start_year:1991, test_year:2000, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.391670
+
+random_seed:0, start_year:1991, test_year:2001, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.386321
+
+random_seed:0, start_year:1991, test_year:2002, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.394165
+
+random_seed:0, start_year:1991, test_year:2003, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.403688
+
+random_seed:0, start_year:1991, test_year:2004, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.410206
+
+random_seed:0, start_year:1991, test_year:2005, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.425206
+
+random_seed:0, start_year:1991, test_year:2006, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.431830
+
+random_seed:0, start_year:1991, test_year:2007, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.445080
+
+random_seed:0, start_year:1991, test_year:2008, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.451680
+
+random_seed:0, start_year:1991, test_year:2009, currC:0.0001000000
+BLOCK: 0.298157
+RAND: 0.298098
+PROP: 0.000059
+TEST: 0.471383
+
+random_seed:0, start_year:1991, test_year:2000, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.391895
+
+random_seed:0, start_year:1991, test_year:2001, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.386506
+
+random_seed:0, start_year:1991, test_year:2002, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.394407
+
+random_seed:0, start_year:1991, test_year:2003, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.404000
+
+random_seed:0, start_year:1991, test_year:2004, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.410567
+
+random_seed:0, start_year:1991, test_year:2005, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.425676
+
+random_seed:0, start_year:1991, test_year:2006, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.432349
+
+random_seed:0, start_year:1991, test_year:2007, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.445696
+
+random_seed:0, start_year:1991, test_year:2008, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.452345
+
+random_seed:0, start_year:1991, test_year:2009, currC:0.0000100000
+BLOCK: 0.347492
+RAND: 0.347444
+PROP: 0.000048
+TEST: 0.472192
+
