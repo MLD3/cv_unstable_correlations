@@ -34,6 +34,7 @@ from cv_unstable_correlations.core import run_cv
 # y: binary or continuous labels (numpy array)
 # ts: timestamps (numpy array)
 # metric_fn: your metric function (e.g., log_loss or mean_squared_error)
+# model_type: desired trained model ('linreg' for linear regression or 'logreg' for logistic regression)
 # model_kwargs: dictionary with hyperparameters for model training
 results = run_cv(
     X,
