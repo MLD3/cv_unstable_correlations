@@ -34,13 +34,14 @@ from cv_unstable_correlations.core import run_cv
 # y: binary or continuous labels (numpy array)
 # ts: timestamps (numpy array)
 # metric_fn: your metric function (e.g., log_loss or mean_squared_error)
-
+# model_kwargs: dictionary with hyperparameters for model training
 results = run_cv(
     X,
     y,
     ts,
     metric_fn,
     model_type='logreg',  # or 'linreg'
+    model_kwargs={'n_jobs':3,'solver':'saga', 'penalty':"l1",  'verbose':True, 'random_state':0, 'C':1e-3}
 )
 ```
 
