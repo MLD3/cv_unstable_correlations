@@ -3,3 +3,4 @@ paper_experiments/*.png
 paper_experiments/*.joblib
 cv_unstable_correlations.egg-info/
 build/
+.ipynb_checkpoints/
