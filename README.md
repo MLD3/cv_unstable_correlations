@@ -41,7 +41,6 @@ results = run_cv(
     ts,
     metric_fn,
     model_type='logreg',  # or 'linreg'
-    seed=0
 )
 ```
 
@@ -60,7 +59,7 @@ def run_cv(X, y, ts, metric_fn, model_type='logreg', seed=0):
         ts (np.ndarray): Timestamps or temporal indices for each row of X.
         metric_fn (callable): Scoring function that takes (y_true, y_pred).
         model_type (str): 'logreg' (default) or 'linreg'.
-        seed (int): Random seed for reproducibility.
+        model_kwargs (dict): hyperparameters for model
 
     Returns:
         tuple: (random_cv_score, block_cv_score, proposed_score)

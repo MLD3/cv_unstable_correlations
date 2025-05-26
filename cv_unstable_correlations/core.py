@@ -54,6 +54,7 @@ def run_cv(X, y, ts, metric_fn, model_type='logreg', model_kwargs=None):
     - ts: time index (same length as y), values should correspond to K time blocks
     - metric_fn: scoring function (e.g., log-loss, MAE)
     - model_type: 'logreg' or 'linreg'
+    - model_kwargs: hyperparameters for model
 
     Returns:
     - instability_score: float
