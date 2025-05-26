@@ -67,8 +67,8 @@ for A in [0.05, 0.25, 0.5, 0.75, 0.95]:
             for b in range(T - 1):
                 ts.extend([b]*N)
 
-            stable_rand, stable_block, stable_diff = run_cv(X_train[:, 0], y_train, ts, loss, model_type='linreg', seed=0)
-            unstable_rand, unstable_block, unstable_diff = run_cv(X_train[:, 1], y_train, ts, loss, model_type='linreg', seed=0)
+            stable_rand, stable_block, stable_diff = run_cv(X_train[:, 0], y_train, ts, loss, model_type='linreg', model_kwargs={'fit_intercept':False, 'positive':True})
+            unstable_rand, unstable_block, unstable_diff = run_cv(X_train[:, 1], y_train, ts, loss, model_type='linreg', model_kwargs={'fit_intercept':False, 'positive':True})
 
             V_cond = (((newA**2)*(b**2) - a**2)*((T-2)**2))/((b**2)*(2*(T - 1) - 1))
             
@@ -97,15 +97,17 @@ for A in [0.05, 0.25, 0.5, 0.75, 0.95]:
                 dict_['$\\frac{a}{b}$'].append(a/b)
                 dict_['$$\\frac{(A^2b^2 - a^2)(K-1)^2}{b^2(2K-1)}$$'].append(V_cond)
                 dict_['Method'].append('Block\nCross\nValidation')
-                dict_['Resulting Model MSE'].append([choose_0_loss, choose_1_loss][np.argmin([stable_rand, unstable_rand])])
+                dict_['Resulting Model MSE'].append([choose_0_loss, choose_1_loss][np.argmin([stable_block, unstable_block])])
 
                 dict_['A'].append(newA)
                 dict_['V'].append(newV)
                 dict_['$\\frac{a}{b}$'].append(a/b)
                 dict_['$$\\frac{(A^2b^2 - a^2)(K-1)^2}{b^2(2K-1)}$$'].append(V_cond)
                 dict_['Method'].append('Proposed\nApproach')
+                diff_choices = np.array([stable_diff, unstable_diff])
                 dict_['Resulting Model MSE'].append([choose_0_loss, choose_1_loss][np.argmin(diff_choices)])
-                    
+
+
                 # print(choose_0_loss, choose_1_loss)
                 # print()
 
@@ -175,8 +177,8 @@ for V in np.linspace(0.01, 0.24, 5):
             for b in range(T - 1):
                 ts.extend([b]*N)
 
-            stable_rand, stable_block, stable_diff = run_cv(X_train[:, 0], y_train, ts, loss, model_type='linreg', seed=0)
-            unstable_rand, unstable_block, unstable_diff = run_cv(X_train[:, 1], y_train, ts, loss, model_type='linreg', seed=0)
+            stable_rand, stable_block, stable_diff = run_cv(X_train[:, 0], y_train, ts, loss, model_type='linreg', model_kwargs={'fit_intercept':False, 'positive':True})
+            unstable_rand, unstable_block, unstable_diff = run_cv(X_train[:, 1], y_train, ts, loss, model_type='linreg', model_kwargs={'fit_intercept':False, 'positive':True})
 
             V_cond = (((newA**2)*(b**2) - a**2)*((T-2)**2))/((b**2)*(2*(T - 1) - 1))
             
@@ -205,13 +207,14 @@ for V in np.linspace(0.01, 0.24, 5):
                 dict_['$\\frac{a}{b}$'].append(a/b)
                 dict_['$$\\frac{(A^2b^2 - a^2)(K-1)^2}{b^2(2K-1)}$$'].append(V_cond)
                 dict_['Method'].append('Block\nCross\nValidation')
-                dict_['Resulting Model MSE'].append([choose_0_loss, choose_1_loss][np.argmin([stable_rand, unstable_rand])])
+                dict_['Resulting Model MSE'].append([choose_0_loss, choose_1_loss][np.argmin([stable_block, unstable_block])])
 
                 dict_['A'].append(newA)
                 dict_['V'].append(newV)
                 dict_['$\\frac{a}{b}$'].append(a/b)
                 dict_['$$\\frac{(A^2b^2 - a^2)(K-1)^2}{b^2(2K-1)}$$'].append(V_cond)
                 dict_['Method'].append('Proposed\nApproach')
+                diff_choices = np.array([stable_diff, unstable_diff])
                 dict_['Resulting Model MSE'].append([choose_0_loss, choose_1_loss][np.argmin(diff_choices)])
 
 
