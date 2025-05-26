@@ -7,8 +7,7 @@
 
 This package implements a cross-validation-based model selection technique that helps identify hyperparameters leading to **models that rely on stable, rather than unstable, correlations** in longitudinal data.
 
-Standard cross-validation approaches typically split data into folds either randomly or temporally and then average performance across these folds.  
-However, this averaging can **mask a model’s reliance on unstable feature–outcome correlations**—especially when these correlations vary over time.
+Standard cross-validation approaches typically split data into folds either randomly or temporally and then average performance across these folds.  However, this averaging can **mask a model’s reliance on unstable correlations**.
 
 > 🔍 **Key Insight**  
 > If a model relies on features with a consistent relationship with the outcome across temporally sampled folds ($V = 0$), its average performance will be the same whether folds are sampled randomly or temporally.  

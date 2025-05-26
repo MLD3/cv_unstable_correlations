@@ -34,7 +34,7 @@ for random_seed in range(5):
 
 
         for currC in [1e5, 1e4, 1e3, 1e2, 1, 1e-1, 1e-2, 1e-3, 1e-4, 1e-5]:
-            rand_cv, block_cv, prop_cv = run_cv(all_X, all_y, ts, log_loss, model_kwargs={'n_jobs':3,'solver':'saga', 'penalty':"l1",  'verbose':True, 'random_state':random_seed, 'C':currC})
+            rand_cv, block_cv, prop_cv = run_cv(all_X, all_y, ts, roc_auc_score, model_kwargs={'n_jobs':3,'solver':'saga', 'penalty':"l1",  'verbose':True, 'random_state':random_seed, 'C':currC})
 
             print(start_year, currC, 'final')
             curr_model = LogisticRegression(n_jobs = 3, C = currC, solver = 'saga', penalty="l1", random_state=random_seed, verbose = True)
