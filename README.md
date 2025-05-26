@@ -50,7 +50,7 @@ results = run_cv(
 ## 🧠 Function Signature
 
 ```python
-def run_cv(X, y, ts, metric_fn, model_type='logreg', seed=0):
+def run_cv(X, y, ts, metric_fn, model_type='logreg', model_kwargs = None):
     """
     Evaluate model performance using random CV, block CV, and a stability-aware CV approach.
 
