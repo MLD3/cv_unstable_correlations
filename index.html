@@ -274,7 +274,52 @@ ctxLeft.clearRect(0, 0, ctxLeft.canvas.width, ctxLeft.canvas.height);
   const ctxRightCanvas = document.getElementById('plotRight');
   ctxRightCanvas.height = 240;
   const ctxRight = ctxRightCanvas.getContext('2d');
+	  const lineLegendPlugin = {
+  id: 'lineLegend',
+  beforeInit(chart) {
+    chart.options.plugins.legend.labels.generateLabels = function(chart) {
+      return chart.data.datasets.map((dataset, i) => ({
+        text: dataset.label,
+        strokeStyle: dataset.borderColor || '#000',
+        lineWidth: dataset.borderWidth || 2,
+        borderDash: dataset.borderDash || [],
+        hidden: !chart.isDatasetVisible(i),
+        datasetIndex: i
+      }));
+    };
+  },
+  afterDraw(chart) {
+    const { ctx } = chart;
+    const legend = chart.legend;
+    if (!legend) return;
+
+    for (const item of legend.legendItems) {
+      const box = legend._computeTitleHeight
+        ? legend.legendHitBoxes[item.datasetIndex]
+        : chart.legend.legendHitBoxes[item.datasetIndex];
+
+      if (!box) continue;
+
+      const x = box.left;
+      const y = box.top + box.height / 2;
+
+      const dataset = chart.data.datasets[item.datasetIndex];
+      ctx.save();
+      ctx.beginPath();
+      ctx.setLineDash(dataset.borderDash || []);
+      ctx.lineWidth = 7;
+      ctx.strokeStyle = dataset.borderColor || '#000';
+      ctx.moveTo(x - 5, y);
+      ctx.lineTo(x - 5 + 5, y);
+      ctx.stroke();
+      ctx.restore();
+    }
+  }
+};
+Chart.register(lineLegendPlugin);
+
   if (window.rightChart) window.rightChart.destroy();
+
   window.rightChart = new Chart(ctxRight, {
     type: 'line',
     data: {
@@ -291,6 +336,14 @@ ctxLeft.clearRect(0, 0, ctxLeft.canvas.width, ctxLeft.canvas.height);
     options: {
       responsive: true,
       maintainAspectRatio: true,
+      plugins: {
+        legend: {
+          labels: {
+          boxWidth:0,
+            usePointStyle: false
+          }
+        }
+      },
       scales: {
         y: {
           title: { display: true, text: 'MSE' }
@@ -302,6 +355,7 @@ ctxLeft.clearRect(0, 0, ctxLeft.canvas.width, ctxLeft.canvas.height);
     }
   });
 }
+
   </script>
 </body>
 </html>
